@@ -27,7 +27,7 @@ proxied to `http://localhost:3001/` which is the port the backend listens on.
 
 1. Start by forking this repo [https://github.com/crewfire/coding-challenge-full-stack-js](https://github.com/crewfire/coding-challenge-full-stack-js) to save time on setup (or start from scratch if you wish)
 2. Spend about 1-3 hours working on this (the pre-configured repo should help with that) 
-3. Send us a link to a public GitHub repository with your code  (or share a private one with the username `kiasaki`)
+3. Send us a link to a public GitHub repository with your code  (or share a private one with the username `justscribner`)
 
 ## Challenge: Flickr feed viewer and search
 
@@ -44,4 +44,4 @@ Write a simple web application that reads data from Flickr's public feeds and di
 - Use any other third party library of your choice if needed
 - For extra points, structure the backend as the api endpoint needed was part of a much larger application that required more organization than a one file express app would
 
-You can use any CSS library to make your app look better
+Please use any MaterialUI to make your app look better
