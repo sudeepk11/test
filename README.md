@@ -25,7 +25,7 @@ proxied to `http://localhost:3001/` which is the port the backend listens on.
 
 ## Intructions
 
-1. Start by forking this repo [https://github.com/crewfire/coding-challenge-full-stack-js](https://github.com/crewfire/coding-challenge-full-stack-js) to save time on setup (or start from scratch if you wish)
+1. Start by forking this repo (https://github.com/justscribner/coding-challenge-full-stack-js.git) to save time on setup (or start from scratch if you wish)
 2. Spend about 1-3 hours working on this (the pre-configured repo should help with that) 
 3. Send us a link to a public GitHub repository with your code  (or share a private one with the username `justscribner`)
 
